@@ -21,3 +21,5 @@
     - systemctl restart smbd ==> reiniciar o sistema
     - systemctl status       ==> verificar o status
     - systemctl enabled      ==> para quando o sistema reiniciar , o sewrviço será executado automaticamente
+
+- Adicionando observação
