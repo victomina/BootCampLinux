@@ -1,7 +1,7 @@
 # BootCamp Linux
 ## Comandos para lembrar
 
-- Listar os usu´´arios de um grupo
+- Listar os usuários de um grupo
     -- cat /etc/passwd
 
 - sshd
@@ -22,4 +22,4 @@
     - systemctl status       ==> verificar o status
     - systemctl enabled      ==> para quando o sistema reiniciar , o sewrviço será executado automaticamente
 
-- Adicionando observação
+- 
